@@ -1,0 +1,16 @@
+
+body{
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+	font-weight: normal;
+	background-image: url(../image/fea.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.header{
+	margin: 0 auto;
+	
+}

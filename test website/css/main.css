@@ -1,0 +1,107 @@
+body{
+	background-color:#ccc;
+	width: 70%;
+	border: 3px solid black;
+	margin: 0 auto;
+}
+.main-container{
+	background-color: #ccc;
+	width: 1400px;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+header{
+	padding-left: 80px;
+	line-height: -4em;
+	padding-top: 5px;
+}
+.header-container{
+	background-color: #fff;
+	height: 50px;
+	line-height: -6em;
+}
+.navigation-bar{
+	text-align: right;
+	padding-right: 100px;
+	line-height: -4em;
+}
+.image{
+	/*margin: 0 auto;*/
+}
+.text-inside-image{
+	width: 400px;
+	position: relative;
+	bottom: 400px;
+	left: 700px;
+	color: yellow;
+	line-height: -2em;
+}
+h5{
+width: 400px;
+	position: relative;
+	bottom: 400px;
+	left: 700px;
+	font-family: serif , jokerman;
+	line-height: -2em;
+	font-size: 15px;	
+}
+img{
+	width:1200px;
+	border-radius: 10px;
+   height: 400px;
+   margin: 0 auto;
+
+	
+}
+.second-div{
+	background-color: pink;
+	width: 1200px;
+	height: 400px;
+	text-align: center;
+	padding-top: 50px;
+	margin: 0 auto;
+
+}
+.image-in-second-div{
+	width: 400px;
+	height: 200px;
+	padding-top: 20px;
+}
+.text-in-second-div{
+	width: 400px;
+	margin: 0 auto;
+	line-height: -4em;
+}
+.smart-text-in-second-div{
+	color: yellow;
+}
+.third-div{
+	width: 1200px;
+	height: 400px;
+	background-color: white;
+	text-align: center;
+	padding-top: 10px;
+		margin: 0 auto;
+	/*background-image: url(../image/naaai.jpg);*/
+
+}
+.text-in-third-div{
+	width: 400px;
+	margin: 0 auto;
+	color: yellow;}
+.forth-div{
+	width: 1180px;
+	background-color: green;
+	border-top: 10px solid yellow;
+	text-align: center;
+	border-right: 10px solid yellow;
+	border-left: 10px solid yellow;
+	margin: 0 auto;
+}
+h4{
+	letter-spacing: 10px;
+}
+.last-text{
+	font-weight: 50px;
+	color: red;he
+}

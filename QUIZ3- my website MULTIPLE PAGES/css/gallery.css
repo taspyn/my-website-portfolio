@@ -1,0 +1,136 @@
+
+body{
+	width: 100%;
+	font-size: 14px;
+	font-weight: normal;
+	background-color: #92278f;
+	margin: 0;
+	padding: 0;
+
+}
+  	/*HEADER STYLING STARTS HERE*/
+
+.header{
+	background-color: #ff00fe;
+	width: 100%;
+	font-size: 25px;
+	height: 70px;
+	position: fixed;
+	top: 0;
+
+}
+
+
+.header nav{
+	float: right;
+	margin: 0;
+}
+
+	
+.header nav ul li{
+	display: inline;
+	font-size: 20px;
+	padding-right: 30px;
+	text-shadow: 10px;
+
+}
+.header nav ul li a{
+		text-decoration: none;
+		color: #fff;
+
+}
+	/*HOME PAGE STYLING STARTS HERE*/
+
+.home h3{
+	text-align: center;
+	font-weight: 60px;
+	color: #fff;
+	font-size: 100px;
+
+}
+.home h2{ 
+	font-size: 70px;
+	padding: 0;
+	margin-top: 50px;
+	text-align: center;
+	color: #fff;
+	line-height: 1px;
+
+}
+
+h5{
+	text-align: center;
+	font-size: 50px;
+	font-weight: 20px;
+	color: #0000ff;
+}
+	/*GALLERY STYLING STARTS HERE*/
+body#gall{
+	background-color: #fff;
+}
+body#aboutme{
+	background-color: yellow;
+}
+	/*LOGO STYLING STARTS HERE*/
+.logo img{
+	max-width: 68px;
+
+}
+
+ 	/*FOOTER STYLES STARTS HERE*/
+
+.foot{
+	background-color: #ff00fe;
+	width: 100%;
+	color: white;
+	height: 70px;
+	padding-top: 1px;
+	/*margin-top: 400px;*/	
+}
+.foot ul{
+	margin-top: 10px;
+
+}
+.fa-facebook{
+	padding-right: 20px;
+}
+.fa-twitter{
+	position: relative;
+	bottom: -25px;
+	left: 10px;
+	padding-right: 30px;
+}
+
+
+.contact{
+	text-align: center;
+	font-size: 30px;
+}
+.gallery{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+.about{
+	font-size: 20px;
+}
+
+.logo{
+	float: left;
+}
+.bizcard{
+	float: right;
+}
+
+.scribes{
+	position: relative;
+	left: 100px;
+}
+.food{
+	float: right;
+}
+.me{
+	position: relative;
+	left: 250px;
+	z-index: -1;
+}
